@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FoxzillaOP
+- 👀 I’m interested in Penetration Testing.
+- 🌱 I’m currently learning Exotic Vulnerabilities.
+- 💞️ I’m looking to collaborate for OSCP Certification.
+- 📫 Tweet Me @FoxzillaOP
